@@ -6,9 +6,9 @@ Welcome to my Data Science portfolio! This repository contains a collection of p
 
 Here are some of the projects you'll find in this portfolio:
 
-### 1. [Predicting House Prices](link_to_project1)
+### 1. [Name](link_to_project1)
 
-In this project, I used regression techniques to predict house prices based on various features such as square footage, number of bedrooms, and location.
+description
 
 etc.
 
