@@ -53,10 +53,11 @@ Changes include opening and closing the browser window, removing the need for us
 ## Contributing
 
 Contributions are welcome! If you have any ideas for improvements or bug fixes, please submit an issue or a pull request.
+https://github.com/gvaldez0290/GoogleFormAutoFiller
 
 ## Author
-
 Gerardo "Jerry" Valdez
+https://www.linkedin.com/in/gerardov-janusdts/
 
 ## Additional Resources
 
