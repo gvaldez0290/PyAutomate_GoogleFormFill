@@ -53,7 +53,7 @@ Changes include opening and closing the browser window, removing the need for us
 ## Contributing
 
 Contributions are welcome! If you have any ideas for improvements or bug fixes, please submit an issue or a pull request.
-https://github.com/gvaldez0290/GoogleFormAutoFiller
+[https://github.com/gvaldez0290/GoogleFormAutoFiller](https://github.com/gvaldez0290/PyAutomate_GoogleFormFill)
 
 ## Author
 Gerardo "Jerry" Valdez
