@@ -1,39 +1,69 @@
-# My Data Science Portfolio
+# Google Form Auto-Filler
 
-Welcome to my Data Science portfolio! This repository contains a collection of projects and work that I have completed as a Data Scientist based in the Atlanta area. I am passionate about data and eager to showcase my skills and knowledge in this field.
+Automate the process of filling out Google Forms with ease using this Python script. This script is a helpful tool for automating repetitive data entry tasks when dealing with Google Forms.
 
-## Projects
+## Features
 
-Here are some of the projects you'll find in this portfolio:
-
-### 1. [Name](link_to_project1)
-
-description
-
-etc.
-
-## Tools and Technologies
-
-- Python
-- Jupyter Notebook
-- Pandas
-- NumPy
-- Scikit-Learn
-- TensorFlow
-- Keras
-- Matplotlib
-- Seaborn
-- R
-- SQL
+- Opens the Google Form in the default web browser.
+- Reads form data from a CSV file, allowing for easy customization.
+- Simulates user input to fill out the form fields, including text inputs, dropdown selections, and radio button choices.
+- Submits the form and closes the browser window.
 
 ## Getting Started
 
-If you want to explore any of the projects in this portfolio, follow the links above to access the project repositories. Each project includes detailed documentation and code to help you understand the methodologies and results.
+### Prerequisites
 
-## Contact
+To run this script, you need:
 
-Feel free to reach out to me if you have any questions or would like to collaborate on a project. You can find me on LinkedIn at [www.linkedin.com/in/gerardov-janusdts].
+- Python 3.x
+- pandas (for reading data from a CSV)
+- pyautogui (for simulating user input)
 
-I'm always open to feedback and suggestions, so please don't hesitate to get in touch!
+You can install the required dependencies using `pip`:
 
-Thank you for visiting my Data Science portfolio.
+```bash
+pip install pandas pyautogui
+```
+
+### Usage
+
+1. Clone this repository to your local machine:
+
+   ```bash
+   git clone <repository-url>
+   ```
+
+2. Customize the form data by editing the `form_data.csv` file. Add your own data to match the form fields you want to fill out.
+
+3. Ensure that the browser window is active and the form is loaded before running the script.
+
+4. Run the script:
+
+   ```bash
+   python formFiller.py
+   ```
+
+   The script will automatically fill out the form based on the data in the CSV file.
+
+## Acknowledgments
+
+This project was adapted from the book "Automate the Boring Stuff with Python" by Al Sweigart. The original concept and code for form filling were inspired by the book.
+Changes include opening and closing the browser window, removing the need for user input and also organizing the data into a csv file rather than hardcoding the data. 
+
+## Contributing
+
+Contributions are welcome! If you have any ideas for improvements or bug fixes, please submit an issue or a pull request.
+
+## Author
+
+Gerardo "Jerry" Valdez
+
+## Additional Resources
+
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/chapter20/) by Al Sweigart
+- [Python Documentation](https://www.python.org/doc/)
+- [pandas Documentation](https://pandas.pydata.org/docs/)
+- [pyautogui Documentation](https://pyautogui.readthedocs.io/en/latest/index.html)
+```
+
+
