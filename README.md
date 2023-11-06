@@ -74,11 +74,10 @@ Gerardo "Jerry" Valdez
 https://www.linkedin.com/in/gerardov-janusdts/
 
 ## Additional Resources
-
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/chapter20/) by Al Sweigart
 - [Python Documentation](https://www.python.org/doc/)
 - [pandas Documentation](https://pandas.pydata.org/docs/)
 - [pyautogui Documentation](https://pyautogui.readthedocs.io/en/latest/index.html)
-```
+
 
 
