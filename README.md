@@ -2,6 +2,16 @@
 
 Automate the process of filling out Google Forms with ease using this Python script. This script is a helpful tool for automating repetitive data entry tasks when dealing with Google Forms.
 
+## Features
+
+- Opens the Google Form in the default web browser.
+- Reads form data from a CSV file, allowing for easy customization.
+- Simulates user input to fill out the form fields, including text inputs, dropdown selections, and radio button choices.
+- Submits the form and closes the browser window.
+
+## Demo
+https://youtu.be/iql-3g-CJpU
+
 ## Use Cases
 - Mass Event Registration: Quickly registering multiple participants for events, conferences, or workshops.
 - HR Onboarding Processes: Automating the entry of new employee details into various company systems and forms.
@@ -12,16 +22,6 @@ Automate the process of filling out Google Forms with ease using this Python scr
 - Data Migration: Transferring data between different systems during software migration or system updates.
 - Feedback Collection: Compiling feedback from a large number of users into a centralized form for analysis.
 - Your mind is the limit!
-
-## Features
-
-- Opens the Google Form in the default web browser.
-- Reads form data from a CSV file, allowing for easy customization.
-- Simulates user input to fill out the form fields, including text inputs, dropdown selections, and radio button choices.
-- Submits the form and closes the browser window.
-
-## Demo
-https://youtu.be/iql-3g-CJpU
 
 ## Getting Started
 
