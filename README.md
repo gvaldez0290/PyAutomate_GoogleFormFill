@@ -1,7 +1,5 @@
 # Google Form Auto-Filler
 
-Automate the process of filling out Google Forms with ease using this Python script. This script is a helpful tool for automating repetitive data entry tasks when dealing with Google Forms.
-
 ## Features
 
 - Opens the Google Form in the default web browser.
